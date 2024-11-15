@@ -4,8 +4,8 @@ This project is a Jetpack Compose Android application that displays a list of di
 
 ## Images
 <div style="display: flex; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/698c5255-273d-4828-9d47-33342d2158a3" width="400" height="500">
-  <img src="https://github.com/user-attachments/assets/8d29ceed-c87d-4595-bd9f-1817b0fc4db5" width="400" height="500">
+  <img src="https://github.com/user-attachments/assets/698c5255-273d-4828-9d47-33342d2158a3" width="500" height="500">
+  <img src="https://github.com/user-attachments/assets/8d29ceed-c87d-4595-bd9f-1817b0fc4db5" width="500" height="500">
 </div>
 
 ## Features
