@@ -2,11 +2,9 @@
 
 This project is a Jetpack Compose Android application that displays a list of dishes fetched from a remote API. The app includes a search bar, filters, and a navigation sidebar. When a dish is selected, a dialog appears at the bottom of the screen with the selected dish details.
 
-## Image
-![Screenshot_20241116_041252](https://github.com/user-attachments/assets/698c5255-273d-4828-9d47-33342d2158a3)
-![Screenshot_20241116_041358](https://github.com/user-attachments/assets/8d29ceed-c87d-4595-bd9f-1817b0fc4db5)
+## Images
 
-
+![Screenshot 1](https://github.com/user-attachments/assets/698c5255-273d-4828-9d47-33342d2158a3 =100x100) ![Screenshot 2](https://github.com/user-attachments/assets/8d29ceed-c87d-4595-bd9f-1817b0fc4db5 =100x100)
 
 ## Features
 - Flexible, reusable, and adaptable UI components
